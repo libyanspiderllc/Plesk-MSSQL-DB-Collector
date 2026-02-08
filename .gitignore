@@ -1,0 +1,6 @@
+#Script log files
+*.log
+
+#Subscriptions file
+subscriptions.csv
+
