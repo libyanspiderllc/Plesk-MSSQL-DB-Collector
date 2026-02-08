@@ -19,11 +19,13 @@ It reads subscription domains from a CSV file, queries the Plesk database using 
 
 ## Structure
 
+```
 .
-├── Plesk-sqldb-col.ps1 # Main script
-├── subscriptions-sample.csv # Sample CSV for reference
+├── Plesk-sqldb-col.ps1        # Main script
+├── subscriptions-sample.csv  # Sample CSV for reference
 ├── README.md
 └── .gitignore
+```
 
 ---
 
